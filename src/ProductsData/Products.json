@@ -1,0 +1,72 @@
+[
+    {
+        "_id": 1,
+        "product_name": "jeans",
+        "mrp": 2500,
+        "price": 1200,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "url": "./images/jeans2.webp"
+    },
+    {
+        "_id": 2,
+        "product_name": "shirts",
+        "mrp": 1500,
+        "price": 1150,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "url": "./images/image2.jpg"
+    },
+    {
+        "_id": 3,
+        "product_name": "trouser",
+        "mrp": 2000,
+        "price": 1800,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "url": "./images/image5.webp"
+    },
+    {
+        "_id": 4,
+        "product_name": "tshirt",
+        "mrp": 1000,
+        "price": 700,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "url": "./images/image3.jpg"
+    },
+    {
+        "_id": 5,
+        "product_name": "shorts",
+        "mrp": 1200,
+        "price": 900,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "url": "./images/image4.webp"
+    }
+]
